@@ -3,7 +3,7 @@
 # Name : This script downloads subtitles for video (movie/series) files.
 # 
 #
-# Authors : Dimitris Michalopoulos <d.michalopoulos@deddie.gr> Created : 
+# Authors : Dimitris Michalopoulos <dmixalo@gmail.com> Created : 
 #2 October 2017 Licence : GPL v3 
 #
 # updated:
